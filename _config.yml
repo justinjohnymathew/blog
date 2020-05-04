@@ -4,7 +4,7 @@ social_link: ''
 social_username: ''
 github_repo: ''
 github_username: justinjohnymathew
-theme_color: dark
+theme_color: light
 remote_theme: internet-de-france/athena
 baseurl: /blog
 defaults:
